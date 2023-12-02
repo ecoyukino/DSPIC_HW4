@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "stdexcept": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "xutility": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "utility": "cpp",
+        "cstdlib": "cpp"
+    }
+}
